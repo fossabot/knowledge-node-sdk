@@ -1,0 +1,24 @@
+{
+  "name": "knowledge-node-sdk",
+  "version": "0.0.1",
+  "description": "Knowledge SDK for NodeJS and the Browser",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard .",
+    "security": "nsp check --reporter summary",
+    "test": "echo 'no tests'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knowledge/knowledge-node-sdk.git"
+  },
+  "author": "Gabo Esquivel <contact@gaboesquivel.com> (https://gaboesquivel.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knowledge/knowledge-node-sdk/issues"
+  },
+  "homepage": "https://github.com/knowledge/knowledge-node-sdk#readme",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
